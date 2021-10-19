@@ -31,7 +31,7 @@ header {
 
 nav {
   font-weight: bold;
-  float: center;
+  float: none;
   text-align: center;
   background-color: #EEEEEE;
   width: auto;
@@ -105,7 +105,8 @@ main h3 {
 }
 
 .latestresults, .news {
-  border-right-style: solid;
+  /*border-right-style: solid;*/
+  height: auto;
 }
 
 .tennis {
